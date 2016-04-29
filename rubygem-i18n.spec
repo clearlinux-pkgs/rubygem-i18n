@@ -4,7 +4,7 @@
 #
 Name     : rubygem-i18n
 Version  : 0.7.0
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/i18n-0.7.0.gem
 Source0  : https://rubygems.org/downloads/i18n-0.7.0.gem
 Summary  : No detailed summary available
